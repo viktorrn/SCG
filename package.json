@@ -1,0 +1,24 @@
+{
+  "name": "scg",
+  "version": "1.0.0",
+  "description": "a TS application which generates trashy content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorrn/SCG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorrn/SCG/issues"
+  },
+  "homepage": "https://github.com/viktorrn/SCG#readme",
+  "dependencies": {
+    "puppeteer": "^20.5.0",
+    "speech-synthesis-recorder": "^1.2.1"
+  }
+}
