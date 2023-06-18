@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/viktorrn/SCG#readme",
   "dependencies": {
+    "gtts": "^0.2.1",
     "puppeteer": "^20.5.0",
-    "speech-synthesis-recorder": "^1.2.1"
+    "speech-synthesis-recorder": "^1.2.1",
+    "text2wav": "^0.0.13"
   }
 }
